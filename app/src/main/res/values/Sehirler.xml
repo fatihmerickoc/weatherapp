@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sehirler">
+
+        <item>Current City</item>
+        <item>New York</item>
+        <item>Mikkeli</item>
+        <item>Helsinki</item>
+        <item>Berlin</item>
+        <item>Athens</item>
+        <item>Brussels</item>
+        <item>Amsterdam</item>
+        <item>Istanbul</item>
+        <item>Madrid</item>
+        <item>Stockholm</item>
+        <item>Oslo</item>
+        <item>London</item>
+        <item>Prague</item>
+        <item>Tallinn</item>
+        <item>Budapest</item>
+        <item>Rome</item>
+        <item>Bejing</item>
+        <item>Tokyo</item>
+        <item>Mumbai</item>
+        <item>Mexico</item>
+        <item>São Paulo</item>
+        <item>Delhi</item>
+        <item>Seoul</item>
+        <item>Baku</item>
+        <item>Ottowa</item>
+        <item>Copenhagen</item>
+        <item>Paris</item>
+        <item>Dublin</item>
+        <item>Manila</item>
+        <item>Lisbon</item>
+        <item>Singapore</item>
+        <item>Bratislava</item>
+        <item>Taipei</item>
+        <item>Washington Dc</item>
+        <item>Los Angeles</item>
+        <item>Tampere</item>
+        <item>Oulu</item>
+        <item>Rovaniemi</item>
+        <item>Turku</item>
+        <item>Sydney</item>
+    </string-array>
+
+
+
+
+    <!--  <string-array name="ulkekodlari">
+          <item>Helsinki</item>
+          <item>Berlin</item>
+          <item>Athens</item>
+          <item>Brussels</item>
+          <item>Amsterdam</item>
+          <item>Istanbul</item>
+          <item>Madrid</item>
+          <item>Stockholm</item>
+          <item>Oslo</item>
+          <item>London</item>
+          <item>Prague</item>
+          <item>Tallinn</item>
+          <item>Budapest</item>
+          <item>Rome</item>
+          <item>Bejing</item>
+          <item>Tokyo</item>
+          <item>Mumbai</item>
+          <item>Mexico</item>
+          <item>São Paulo</item>
+          <item>Delhi</item>
+          <item>Seoul</item>
+          <item>Baku</item>
+          <item>Ottowa</item>
+          <item>Copenhagen</item>
+          <item>Paris</item>
+          <item>Dublin</item>
+          <item>Manila</item>
+          <item>Lisbon</item>
+          <item>Singapore</item>
+          <item>Bratislava</item>
+          <item>Taipei</item>
+          <item>Washington Dc</item>
+          <item>Los Angeles</item>
+          <item>Mikkeli</item>
+          <item>Tampere</item>
+          <item>Oulu</item>
+          <item>Rovaniemi</item>
+          <item>Turku</item>
+          <item>Sydney</item>
+
+
+      </string-array>-->
+
+
+
+
+  </resources>
